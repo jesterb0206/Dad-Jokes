@@ -15,11 +15,11 @@
 
 <br>
 
-![Dad Jokes]()
+![Dad Jokes](images/dad-jokes.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/Dad-Jokes/)
 
 <br>
 
